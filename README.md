@@ -6,10 +6,6 @@
 
 <div align="center">
   <h3>
-    <a href="https://jdegand.github.io/random-quote-generator">
-      Live Link
-    </a>
-    <span> | </span>
     <a href="https://devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8">
       Challenge
     </a>
@@ -57,3 +53,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Stack Oveflow](https://stackoverflow.com/questions/5004978/check-if-page-gets-reloaded-or-refreshed-in-javascript) - check for refresh
 - [Stack Overflow](https://stackoverflow.com/questions/70784027/how-to-get-check-if-a-page-gets-reloaded-with-js) - check for refresh
 - [Digital Ocean](https://www.digitalocean.com/community/tutorials/7-ways-to-implement-conditional-rendering-in-react-applications#5-using-logical-short-circuit-evaluation) - conditional rendering & react
+- [Nordic Apis](https://nordicapis.com/10-free-to-use-cors-proxies/) - cors proxies
