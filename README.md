@@ -54,3 +54,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Stack Overflow](https://stackoverflow.com/questions/70784027/how-to-get-check-if-a-page-gets-reloaded-with-js) - check for refresh
 - [Digital Ocean](https://www.digitalocean.com/community/tutorials/7-ways-to-implement-conditional-rendering-in-react-applications#5-using-logical-short-circuit-evaluation) - conditional rendering & react
 - [Nordic Apis](https://nordicapis.com/10-free-to-use-cors-proxies/) - cors proxies
+- [Blog](https://blog.grida.co/cors-anywhere-for-everyone-free-reliable-cors-proxy-service-73507192714e) - cors proxy service
+- [app.cors.bridged](https://app.cors.bridged.cc/settings#proxy) - cors proxy 
