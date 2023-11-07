@@ -1,15 +1,7 @@
 <h1 align="center">Quote Generator</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
-
-<div align="center">
-  <h3>
-    <a href="https://devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8">
-      Challenge
-    </a>
-  </h3>
+   Solution for a challenge from  <a href="https://legacy.devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8" target="_blank">Devchallenges.io</a>.
 </div>
 
 ## Table of Contents
@@ -43,7 +35,7 @@
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://legacy.devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8) was to build an application to complete the given user stories.
 
 ## Thoughts
 
