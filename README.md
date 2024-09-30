@@ -1,14 +1,13 @@
-<h1 align="center">Quote Generator</h1>
+# Quote Generator
 
-<div align="center">
-   Solution for a challenge from  <a href="https://legacy.devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8" target="_blank">Devchallenges.io</a>.
-</div>
+Solution for a challenge from [DevChallenges](https://legacy.devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8).
+   
+**Note**: This app no longer works because the API used has been abandoned. I may look into alternatives, or I may archive the repo.
 
 ## Table of Contents
 
 - [Overview](#overview)
   - [Screenshots](#screeshots)
-  - [Link](#link)
   - [Built With](#built-with)
 - [Features](#features)
 - [Thoughts](#thoughts)
@@ -18,13 +17,9 @@
 
 ### Screeshots
 
-![](quote-generator-mobile-1.png)
+![Mobile 1](quote-generator-mobile-1.png)
 
-![](quote-generator-mobile-2.png)
-
-### Link
-
-[Live Link](https://jdegand.github.io/quote-generator)
+![Mobile 2](quote-generator-mobile-2.png)
 
 ### Built With
 
@@ -39,11 +34,10 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Thoughts
 
-- Originally, this app used Programming Quotes API.  That API is no longer hosted anywhere so I swapped to the Quotable API.
-- Conversion required changing api calls and slight modifications in the components. 
-- Go Quotes API is now also dead.
-- Quotable seems to be best free quote api that doesn't require an api key.  Alternatives are listed in the useful resources section. 
-- Logic could be overhauled.  Make the api request in AuthorQuotes component itself and pass the author name to the route.  To pass author name, you add it as a query parameter.    
+- Originally, this app used the Programming Quotes API.  That API is no longer hosted anywhere so I swapped to the Quotable API.
+- The conversion required changing API calls and slight modifications in the components. 
+- Quotable was one of the best free quote APIs that didn't require an API key. Unfortunately, the Quotable API seems to be defunct and the repo maintainer has not responded for many months so this repo no longer works.  
+- Logic could be overhauled.  You could make the API request in `AuthorQuotes` component and pass the author name to the route. To pass author name, you add it as a query parameter.    
 
 ## Useful Resources
 
