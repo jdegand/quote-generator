@@ -1,6 +1,6 @@
 # Quote Generator
 
-Solution for a challenge from [DevChallenges](https://legacy.devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8).
+Solution for a challenge from [DevChallenges](https://web.archive.org/web/20240526051740/https://legacy.devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8).
    
 **Note**: This app no longer works because the API used has been abandoned. I may look into alternatives, or I may archive the repo.
 
@@ -30,7 +30,7 @@ Solution for a challenge from [DevChallenges](https://legacy.devchallenges.io/ch
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://legacy.devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://web.archive.org/web/20240526051740/https://legacy.devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8) was to build an application to complete the given user stories. **Note**: The previous design document may be incomplete, as you need to find an archived version of the challenge as all `legacy` challenges have had their documentation removed from DevChallenges.
 
 ## Thoughts
 
